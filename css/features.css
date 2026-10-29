@@ -1,7 +1,8 @@
-.features-container{
+.features{
   padding-top: 120px;
-  padding-bottom: 120px;
+    padding-bottom: 120px;
 }
+
 
 .features-list{
   display: flex;
@@ -9,8 +10,8 @@
   gap: 24px;
 }
 
-.features-list li{
-width: calc((1158-15*2-24*3)/4)px;
+.feature-item{
+width: 264px;
 }
 
 
@@ -22,6 +23,7 @@ width: calc((1158-15*2-24*3)/4)px;
     line-height: 120%;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
+    margin-bottom: 8px;
 }
 
 .feature-text {

@@ -1,5 +1,6 @@
 .page-footer {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 
 .footer-logo {
@@ -13,8 +14,4 @@
   letter-spacing: 0.02em;
   width: 264px;
   margin-top: 16px;
-}
-
-.footer-content{
-  padding: 100px 0;
 }
